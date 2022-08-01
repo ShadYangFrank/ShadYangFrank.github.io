@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>DogNeverSleep</title>
-  
-  
+  <title>Le vent se lève, il faut tenter de vivre.</title>
+  <icon>https://www.gravatar.com/avatar/6ae4eb0fe1cacabde87e413135bc541c</icon>
+  <subtitle>纵有疾风起 人生不言弃</subtitle>
   <link href="https://shadyangfrank.github.io/atom.xml" rel="self"/>
   
   <link href="https://shadyangfrank.github.io/"/>
@@ -10,16 +10,16 @@
   <id>https://shadyangfrank.github.io/</id>
   
   <author>
-    <name>John Doe</name>
-    
+    <name>DogNeverSleep</name>
+    <email>frankyang151@163.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>two</title>
-    <link href="https://shadyangfrank.github.io/posts/298486374.html"/>
-    <id>https://shadyangfrank.github.io/posts/298486374.html</id>
+    <link href="https://shadyangfrank.github.io/2022/07/31/two/"/>
+    <id>https://shadyangfrank.github.io/2022/07/31/two/</id>
     <published>2022-07-31T14:44:35.000Z</published>
     <updated>2022-07-31T14:53:54.992Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>first</title>
-    <link href="https://shadyangfrank.github.io/posts/2456940119.html"/>
-    <id>https://shadyangfrank.github.io/posts/2456940119.html</id>
+    <link href="https://shadyangfrank.github.io/2022/07/31/first/"/>
+    <id>https://shadyangfrank.github.io/2022/07/31/first/</id>
     <published>2022-07-31T14:37:03.000Z</published>
     <updated>2022-07-31T14:53:54.990Z</updated>
     
@@ -60,8 +60,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://shadyangfrank.github.io/posts/1243066710.html"/>
-    <id>https://shadyangfrank.github.io/posts/1243066710.html</id>
+    <link href="https://shadyangfrank.github.io/2022/07/31/hello-world/"/>
+    <id>https://shadyangfrank.github.io/2022/07/31/hello-world/</id>
     <published>2022-07-31T07:26:03.554Z</published>
     <updated>2022-07-31T14:53:54.991Z</updated>
     
