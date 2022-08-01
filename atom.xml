@@ -23,14 +23,12 @@
     <published>2022-07-31T14:44:35.000Z</published>
     <updated>2022-07-31T14:53:54.992Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="just-For-love"><a href="#just-For-love" class="headerlink" title="just For love"></a>just For love</h1><p>好的</p><div id="gitalk-container"></div><script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script><link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css"><script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script><script>var gitalkConfig = {"clientID":"92af88041f82e64e3b71","clientSecret":"1a429ff8eaa842e7d466937c94ffdb32a537002b","repo":"BlogComment","owner":"ShadYangFrank","admin":["ShadYangFrank"],"distractionFreeMode":false};    gitalkConfig.id = md5(location.pathname);var gitalk = new Gitalk(gitalkConfig);    gitalk.render("gitalk-container");    </script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="just-For-love"><a href="#just-For-love" class="headerlink" title="just For love"></a>just For love</h1><p>好的</p><div id="gitalk-container"></div><script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script><link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css"><script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script><script>var gitalkConfig = {"enable":false};    gitalkConfig.id = md5(location.pathname);var gitalk = new Gitalk(gitalkConfig);    gitalk.render("gitalk-container");    </script>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;just-For-love&quot;&gt;&lt;a href=&quot;#just-For-love&quot; class=&quot;headerlink&quot; title=&quot;just For love&quot;&gt;&lt;/a&gt;just For love&lt;/h1&gt;&lt;p&gt;好的&lt;/p&gt;
-
-&lt;div id=&quot;gitalk-co</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
       
     
     
@@ -45,15 +43,12 @@
     <published>2022-07-31T14:37:03.000Z</published>
     <updated>2022-07-31T14:53:54.990Z</updated>
     
-    <content type="html"><![CDATA[<p>第一次写博客</p><div id="gitalk-container"></div><script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script><link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css"><script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script><script>var gitalkConfig = {"clientID":"92af88041f82e64e3b71","clientSecret":"1a429ff8eaa842e7d466937c94ffdb32a537002b","repo":"BlogComment","owner":"ShadYangFrank","admin":["ShadYangFrank"],"distractionFreeMode":false};    gitalkConfig.id = md5(location.pathname);var gitalk = new Gitalk(gitalkConfig);    gitalk.render("gitalk-container");    </script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>第一次写博客</p><div id="gitalk-container"></div><script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script><link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css"><script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script><script>var gitalkConfig = {"enable":false};    gitalkConfig.id = md5(location.pathname);var gitalk = new Gitalk(gitalkConfig);    gitalk.render("gitalk-container");    </script>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;第一次写博客&lt;/p&gt;
-
-&lt;div id=&quot;gitalk-container&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
       
     
     
@@ -68,15 +63,12 @@
     <published>2022-07-31T07:26:03.554Z</published>
     <updated>2022-07-31T14:53:54.991Z</updated>
     
-    <content type="html"><![CDATA[<p>1</p><div id="gitalk-container"></div><script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script><link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css"><script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script><script>var gitalkConfig = {"clientID":"92af88041f82e64e3b71","clientSecret":"1a429ff8eaa842e7d466937c94ffdb32a537002b","repo":"BlogComment","owner":"ShadYangFrank","admin":["ShadYangFrank"],"distractionFreeMode":false};    gitalkConfig.id = md5(location.pathname);var gitalk = new Gitalk(gitalkConfig);    gitalk.render("gitalk-container");    </script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>1</p><div id="gitalk-container"></div><script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script><link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css"><script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script><script>var gitalkConfig = {"enable":false};    gitalkConfig.id = md5(location.pathname);var gitalk = new Gitalk(gitalkConfig);    gitalk.render("gitalk-container");    </script>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;1&lt;/p&gt;
-
-&lt;div id=&quot;gitalk-container&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;style</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
       
     
     
