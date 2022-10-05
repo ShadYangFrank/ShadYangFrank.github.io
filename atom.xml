@@ -6,7 +6,7 @@
   <link href="https://shadyangfrank.github.io/atom.xml" rel="self"/>
   
   <link href="https://shadyangfrank.github.io/"/>
-  <updated>2022-07-31T14:53:54.991Z</updated>
+  <updated>2022-10-05T04:53:31.754Z</updated>
   <id>https://shadyangfrank.github.io/</id>
   
   <author>
@@ -17,13 +17,13 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://shadyangfrank.github.io/2022/07/31/hello-world/"/>
-    <id>https://shadyangfrank.github.io/2022/07/31/hello-world/</id>
-    <published>2022-07-31T07:26:03.554Z</published>
-    <updated>2022-07-31T14:53:54.991Z</updated>
+    <title>2022年的秋天</title>
+    <link href="https://shadyangfrank.github.io/2022/10/05/2022%E5%B9%B4%E7%9A%84%E7%A7%8B%E5%A4%A9/"/>
+    <id>https://shadyangfrank.github.io/2022/10/05/2022%E5%B9%B4%E7%9A%84%E7%A7%8B%E5%A4%A9/</id>
+    <published>2022-10-05T04:51:13.000Z</published>
+    <updated>2022-10-05T04:53:31.754Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>1</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>2022年10月5日，武汉降温的第二天。又是一个灰暗乏闷的秋天。</p><p>前两天还是需要开空调的闷热天气，现在就需要穿上厚衣服。</p>]]></content>
     
     
       
@@ -32,6 +32,8 @@
       
     
     
+    
+    <category term="杂记" scheme="https://shadyangfrank.github.io/categories/%E6%9D%82%E8%AE%B0/"/>
     
     
   </entry>

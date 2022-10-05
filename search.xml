@@ -4,12 +4,18 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2022/07/31/hello-world/"/>
-      <url>/2022/07/31/hello-world/</url>
+      <title>2022年的秋天</title>
+      <link href="/2022/10/05/2022%E5%B9%B4%E7%9A%84%E7%A7%8B%E5%A4%A9/"/>
+      <url>/2022/10/05/2022%E5%B9%B4%E7%9A%84%E7%A7%8B%E5%A4%A9/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>1</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>2022年10月5日，武汉降温的第二天。又是一个灰暗乏闷的秋天。</p><p>前两天还是需要开空调的闷热天气，现在就需要穿上厚衣服。</p>]]></content>
       
+      
+      <categories>
+          
+          <category> 杂记 </category>
+          
+      </categories>
       
       
     </entry>
